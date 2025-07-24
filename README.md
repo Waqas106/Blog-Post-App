@@ -18,5 +18,6 @@ This is a simple **React-based Blog Post App** that displays a list of blog arti
 
 ## Live Preview
 
+https://waqas106.github.io/Blog-Post-App/
 
 
