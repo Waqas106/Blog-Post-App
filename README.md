@@ -1,15 +1,22 @@
-**Blog Post **
-This project demonstrates a simple blog post interface using React, focusing on clean UI structure and component-based development.
+# 📝 Blog Post App
 
-**Features**
-Responsive layout using React
+This is a simple **React-based Blog Post App** that displays a list of blog articles with interactive features like **category filtering** and a **Read More** toggle for each post.
 
-Component-based architecture
+## 🚀 Features
 
-Blog cards with image, title, and content
+- 📚 Display blog posts dynamically
+- 🧠 Filter posts by category
+- 🔽 Show limited text initially with **Read More** functionality
+- 📱 Responsive design using modern CSS
 
-Header and footer components
+## 🔧 Tech Stack
 
-Clean folder structure for scalability
+- React
+- Vite
+- CSS (External)
+- React Router (for navigation)
 
-**Demo**
+## Live Preview
+
+
+
